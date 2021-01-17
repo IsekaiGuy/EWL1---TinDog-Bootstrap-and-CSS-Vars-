@@ -7,7 +7,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## О проекте
-![Alt text](/images/TinDog.png?raw=true "Optional Title")
+![Alt text](/images/TinDog.png?raw=true "TinDog")
 <p>
 Простой одностраничник на Bootstrap. Перебрал CSS используя переменные.
 </p>
