@@ -7,7 +7,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## О проекте
-(https://github.com/IsekaiGuy/EWL1---TinDog-Bootstrap-and-CSS-Vars-/blob/master/images/TinDog.png)
+![Alt text](/images/TinDog.png?raw=true "Optional Title")
 <p>
 Простой одностраничник на Bootstrap. Перебрал CSS используя переменные.
 </p>
