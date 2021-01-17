@@ -1,4 +1,4 @@
-  <h3 align="center">TinDog</h3>
+  <h2 align="center">TinDog</h3>
 
   <p align="center">
     Сайт знакомств для собак
