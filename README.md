@@ -1,2 +1,13 @@
-﻿# EWL1---TinDog-Bootstrap-and-CSS-Vars-
-Simple landing page on Bootstrap. Refactored code with CSS variables.
+  <h3 align="center">TinDog</h3>
+
+  <p align="center">
+    Сайт знакомств для собак
+    <br />
+</p>
+
+<!-- ABOUT THE PROJECT -->
+## О проекте
+[![Product Name Screen Shot][product-screenshot]](https://github.com/IsekaiGuy/EWL1---TinDog-Bootstrap-and-CSS-Vars-/blob/master/images/TinDog.png?raw=true)
+<p>
+Простой одностраничник на Bootstrap. Перебрал CSS используя переменные.
+</p>
