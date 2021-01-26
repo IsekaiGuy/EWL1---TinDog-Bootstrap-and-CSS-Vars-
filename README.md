@@ -1,13 +1,13 @@
   <h2 align="center">TinDog</h3>
 
   <p align="center">
-    Сайт знакомств для собак
+    Dating site for dogs
     <br />
 </p>
 
 <!-- ABOUT THE PROJECT -->
-## О проекте
+## About Project
 ![Alt text](/images/TinDog.png?raw=true "TinDog")
 <p>
-Простой одностраничник на Bootstrap. Перебрал CSS используя переменные.
+Simple one-page website on Bootstrap.
 </p>
